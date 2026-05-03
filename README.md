@@ -106,3 +106,8 @@ User churn is a critical challenge for digital platforms. This project aims to:
   ## 👤 Author
 
 - MD. Saiful Islam
+
+
+![feature_importance](feature_importance.png)
+![Churn_Rate_by_Mean_Kms_per_Driving_Day](Churn_Rate_by_Mean_Kms_per_Driving_Day.png)
+![Churn_Rate_per_Driving_Day](Churn_Rate_per_Driving_Day.png)
